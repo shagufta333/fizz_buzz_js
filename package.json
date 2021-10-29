@@ -4,7 +4,11 @@
   "main": "index.js",
   "author": "shagufta",
   "license": "MIT",
-  "devDependencies": {
+  "devDependencies":
+   {
     "jest": "^27.3.1"
-  }
+  },
+"scripts": {
+  "test": "jest--passWithNoTests--rootDir=spec"}
+}
 }
